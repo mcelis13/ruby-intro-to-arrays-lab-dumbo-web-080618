@@ -3,7 +3,7 @@ def instantiate_new_array
 end
 
 def array_with_two_elements
-  return array[{name: 'Madeline'}, {name: 'Jeff'}]
+  return array = ['Maddie', 'Jeff']
 end
 
 def first_element(array)
